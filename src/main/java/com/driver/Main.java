@@ -20,6 +20,6 @@ public class Main {
 
 
         B objB = new B();
-        objB.meth();
+        System.out.println(objB.meth());
     }
 }
